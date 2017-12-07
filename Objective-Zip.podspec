@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
                            "Objective-Zip/OZZipWriteStream+NSError.h", "Objective-Zip/OZZipReadStream.h",
                            "Objective-Zip/OZZipReadStream+Standard.h", "Objective-Zip/OZZipReadStream+NSError.h",
                            "Objective-Zip/OZFileInZipInfo.h", "Objective-Zip/Objective-Zip.h", "Objective-Zip/Objective-Zip+NSError.h",
-                           "Objective-Zip/NSDate+DOSDate.h", "Objective-Zip/NSData+CRC32.h","MiniZip/zip.h",Objective-Zip/CSIIMADPunzip.h"]
+                           "Objective-Zip/NSDate+DOSDate.h", "Objective-Zip/NSData+CRC32.h","MiniZip/zip.h","Objective-Zip/CSIIMADPunzip.h"]
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
