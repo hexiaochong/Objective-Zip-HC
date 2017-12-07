@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.name         = "Objective-Zip"
+  s.name         = "HC-Objective-Zip"
   s.version      = "2.0"
   s.summary      = "An object-oriented friendly wrapper library for ZLib and MiniZip, in Objective-C for iOS and OS X"
 
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
                    Objective-Zip includes sources of latest versions of ZLib and MiniZip.
                    DESC
 
-  s.homepage     = "https://github.com/hexiaochong/Objective-Zip"
+  s.homepage     = "https://github.com/hexiaochong/Objective-Zip-HC"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/hexiaochong/Objective-Zip.git",
+  s.source       = { :git => "https://github.com/hexiaochong/Objective-Zip-HC.git",
                      :tag => s.version.to_s }
 
 
