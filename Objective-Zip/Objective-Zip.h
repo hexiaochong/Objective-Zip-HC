@@ -43,3 +43,4 @@
 #import "OZFileInZipInfo.h"
 #import "NSDate+DOSDate.h"
 #import "NSData+CRC32.h"
+#import "CSIIMADPunzip.h"

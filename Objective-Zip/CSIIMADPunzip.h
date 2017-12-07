@@ -45,6 +45,8 @@
 #ifndef CSIIMADP__unz_H
 #define CSIIMADP__unz_H
 
+#import "ioapi.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -53,9 +55,11 @@ extern "C" {
 #include "zlib.h"
 #endif
 
-#ifndef _ZLIBIOAPI_H
+#ifndef CSIIMADP__ZLIBIOAPI_H
 #include "ioapi.h"
 #endif
+
+
 
 #if defined(STRICTUNZIP) || defined(STRICTZIPUNZIP)
 /* like the STRICT of WIN32, we define a pointer that cannot be converted
