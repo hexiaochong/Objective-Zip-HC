@@ -45,7 +45,7 @@
 #ifndef CSIIMADP__unz_H
 #define CSIIMADP__unz_H
 
-#import "zip.h"
+#include "zip.h"
 
 #ifdef __cplusplus
 extern "C" {
